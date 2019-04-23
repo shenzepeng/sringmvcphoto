@@ -1,0 +1,4 @@
+com\config\CorsConfig.class
+com\controller\FileController.class
+com\utils\Base64Image.class
+com\controller\Hello.class
